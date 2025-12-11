@@ -1,0 +1,6 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+#define MAX_RECORDS 1000
+#define HIGH_SPEED_THRESHOLD 5.0
+#define WIND_DIRECTIONS_COUNT 8
+#endif
